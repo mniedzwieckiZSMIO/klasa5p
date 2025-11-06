@@ -14,6 +14,7 @@ function App() {
         <Alert>Neutral</Alert>
         <Alert bg="red">Kolor czerwony</Alert>
         <Alert bg="green">Kolor zielony</Alert>
+        <h1>Plik został zmieniony</h1>
     </>
   )
 }
